@@ -6,3 +6,6 @@ Asi mismo se encuentra elaborado en lenguaje Java, y es un prototipo no tan sofi
 conocimientos basicos sobre una implementacion temprada a induccion en base de datos. Se puede comprender
 el funcionamiento de muchas formas, y en este programa se ha utilizado un caso de estudio de "Planes Celulares"
 con sus respectivos datos (duenos, id, datos informativos, etc).
+
+
+Elaborado por Carlos Mejia
